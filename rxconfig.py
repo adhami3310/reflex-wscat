@@ -2,4 +2,4 @@
 
 import reflex as rx
 
-config = rx.Config(app_name="wscat", state_auto_setter=False)
+config = rx.Config(app_name="wscat", state_auto_setters=False)
